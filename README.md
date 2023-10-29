@@ -1,6 +1,6 @@
 ### Hello!👋 Welcome to lsnuBo08's Github Homepages!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+,+visitor!;Welcome+to+Github+world!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+,+vistor!;Welcome+to+Github+world!" alt="Typing SVG" /></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsnuBo08)](https://github.com/anuraghazra/github-readme-stats)
 <!--
