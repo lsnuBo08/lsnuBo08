@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!👋 Welcome to lsnuBo08's Github Homepages!
 
 <!--
 **lsnuBo08/lsnuBo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
