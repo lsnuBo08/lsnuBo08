@@ -5,7 +5,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsnuBo08)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!--
 **lsnuBo08/lsnuBo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
